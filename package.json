@@ -1,0 +1,23 @@
+{
+  "name": "dataloaderjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "apollo-server": "^2.25.0",
+    "apollo-server-express": "^2.25.0",
+    "dataloader": "^2.0.0",
+    "express": "^4.17.1",
+    "graphql": "^15.5.0",
+    "mongoose": "^5.12.11",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
