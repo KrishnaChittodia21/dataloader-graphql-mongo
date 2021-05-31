@@ -18,7 +18,7 @@ const app = express();
 server.applyMiddleware({ app });
 
 const dbString =
-  "mongodb+srv://dataloader:test101@cluster0.gvera.mongodb.net/sample_mflix?retryWrites=true&w=majority";
+  "enter mongo cluster - uri";
 const PORT = 8000;
 
 mongoose
